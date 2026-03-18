@@ -5,6 +5,9 @@
 ![Forecast](https://img.shields.io/badge/Feature-FORECAST.ETS-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
+![Dashboard Preview](dashboard_preview1.png)
+![Dashboard Preview](dashboard_preview2.png)
+
 ##  Project Overview
 Analysis of 9,792 retail transactions across 4 years (2015-2018) 
 identifying sales performance patterns, regional concentration, 
