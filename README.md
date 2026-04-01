@@ -52,6 +52,10 @@ product category trends and forecasting H1 2019 revenue.
 | SMAPE | 0.22 | 22% average error |
 | MAE | $11,511 | Average monthly miss |
 
+![Forecast Preview](Forecast_preview.png)
+![Forecast Preview](Forecast_preview1.png)  
+- Scenario Summary
+![Scenario Summary](Scenario_Summary.png)  
 ## 💡 Business Recommendations
 1. Prioritize WEST region — highest revenue concentration
 2. Invest in Technology category — clear market leader
@@ -60,7 +64,7 @@ product category trends and forecasting H1 2019 revenue.
 5. Realistic 20% growth target achievable based on 2017-2018 trajectory
 
 ## 📊 Data Source
-Kaggle — Superstore Sales Dataset (9,800 transactions, 2015-2018)
+Kaggle — [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) (9,800 transactions, 2015-2018)
 
 ## 👤 Author
 **NC-Dan (Duncan Chicho)** | Data Analyst
