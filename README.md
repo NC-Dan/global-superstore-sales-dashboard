@@ -66,9 +66,13 @@ product category trends and forecasting H1 2019 revenue.
 ## 📊 Data Source
 Kaggle — [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) (9,800 transactions, 2015-2018)
 
-## 👤 Author
-**NC-Dan (Duncan Chicho)** | Data Analyst | Open to remote Contribution  
-## | Other Analyst Projects |  
+## | Other Excel Analyst Projects |  
 - 🔗[Kenya Healthcare Analytics — Patient Admission, Cost Analysis & Risk Dashboard](https://github.com/NC-Dan/healthcare-analytics-dashboard)
 - 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
-- 🔗[www.linkedin.com/in/duncan-analytics](https://www.linkedin.com/in/duncan-analytics/)
+---
+## | Microsoft SQL Server Analyst Projects |  
+- 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
+---
+## 👤 Author
+**NC-Dan (Duncan N Chicho)** | Data Analyst | Open to remote Contribution  
+- Connect with me on Linkedin🔗[www.linkedin.com/in/duncanalyst](https://www.linkedin.com/in/duncanalyst/?skipRedirect=true)
