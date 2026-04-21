@@ -71,6 +71,7 @@ Kaggle — [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo
 - 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
 ---
 ## | Microsoft SQL Server Analyst Projects |  
+- 🔗[olist-ecommerce-sql-analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
 - 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
 ---
 ## 👤 Author
