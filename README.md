@@ -71,12 +71,12 @@ Kaggle — [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo
 - 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
 ---
 ## | Microsoft SQL Server Analyst Projects |  
-- 🔗[olist-ecommerce-sql-analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
-- 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
-- 🔗[Credit-card-fraud-detection-sql](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
+- 🔗[Olist-Ecommerce-SQL-Analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
+- 🔗[IBM-HR-Attrition-SQL-Analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
+- 🔗[Credit-Card-Fraud-Detection-SQL](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
 ---
 ## | PowerBI Analyst Projects |  
-- 🔗[Olist-ecommerce-powerbi-analysis](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
+- 🔗[Olist-Ecommerce-PowerBI-Analysis](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
 ---
 ## 👤 Author
 **NC-Dan (Duncan N Chicho)** | Data Analyst | Open to remote Contribution  
